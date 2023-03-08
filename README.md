@@ -3,7 +3,7 @@
 **Graduado em Análise e Desnvlvimentos de Sistemas.**
 
 
-####  - Estudande de Front-End programa Ford , uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo
+####  - Estudande de Front-End, uma parceria entre a Ford Brasil, Ford Fund e SENAI São Paulo
 
 - 🔭 Apaixonado por Técnologia ...
 <p align="center">
